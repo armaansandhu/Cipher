@@ -1,2 +1,2 @@
 # Cipher
-Encryption/Decryption Mini Project
+GUI Encryption/Decryption Mini Project.
